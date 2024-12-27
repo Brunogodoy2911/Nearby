@@ -12,7 +12,7 @@ ___
 ## 🎨 Layout
 Imagens da aplicação são vistas na imagem abaixo:
 
-[nearby capa](https://ibb.co/Qf5BzjS)
+![nearby capa](assets/images/capa.png)
 
 
 ___
@@ -23,10 +23,9 @@ As seguintes tecnologias foram empregadas na criação deste projeto:
 
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Async Storage](https://react-native-async-storage.github.io/async-storage/)
+- [Expo Router](https://docs.expo.dev/router/introduction/)
 - [Tabler Icons](https://tabler.io/docs/icons/react-native)
-- [Expo Checkbox](https://docs.expo.dev/versions/latest/sdk/checkbox/)
-- [Moti](https://moti.fyi/)
+- [React Native Maps](https://github.com/react-native-maps/react-native-maps)
 
 ___
 
@@ -35,10 +34,10 @@ ___
 Clone o projeto para o local desejado em seu computador.
 
 ```bash
-$ git clone https://github.com/Brunogodoy2911/ToDo-List
+$ git clone https://github.com/Brunogodoy2911/Nearby
 
 # Navegue até o diretório
-$ cd ToDoList-RN
+$ cd Nearby
 
 # Instale as dependências necessárias
 $ npm install
